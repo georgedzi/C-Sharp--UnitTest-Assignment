@@ -1,0 +1,8 @@
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\bin\Debug\CorityCodingScenarioTest.dll
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\bin\Debug\CorityCodingScenarioTest.pdb
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\bin\Debug\CorityCodingScenario.exe
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\bin\Debug\CorityCodingScenario.pdb
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\obj\Debug\CorityCodingScenarioTest.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\obj\Debug\CorityCodingScenarioTest.dll
+c:\users\george\documents\visual studio 2015\Projects\CorityCodingScenario\CorityCodingScenarioTest\obj\Debug\CorityCodingScenarioTest.pdb
